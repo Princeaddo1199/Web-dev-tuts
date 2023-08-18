@@ -127,3 +127,7 @@ a {
   left: 47%;
   top: 70%;
 }
+.line-divide{
+    width: 800px;
+    border-bottom: #1e1e1e;
+}
