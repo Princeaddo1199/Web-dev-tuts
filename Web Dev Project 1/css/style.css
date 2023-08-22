@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: white;
   font-family: "Belanosima", sans-serif;
   font-family: "Roboto Condensed", sans-serif;
@@ -68,4 +68,25 @@ html {
   justify-content: center;
   align-items: center;
   border-radius: 30px;
+}
+
+.line-straight{
+  width: 1400px;
+  position: absolute;
+  bottom: 14%;
+  right: 49%;
+}
+
+.string-round{
+  width: 1000px;
+  position: absolute;
+  left: 11%;
+  top: 2.5%;
+}
+
+.scramble{
+  width: 1300px;
+  position: absolute;
+  left: 32%;
+  top: 8%;
 }
